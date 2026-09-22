@@ -1,0 +1,73 @@
+{
+  "version": 5,
+  "intervalMs": 10000,
+  "updatedAt": 1790034785092,
+  "ads": [],
+  "visual": {
+    "showAdsPanel": true,
+    "lightweight": false,
+    "theme": "",
+    "interfaceMode": "",
+    "accent": "#38bdf8",
+    "bannerUrl": "",
+    "logoUrl": "",
+    "backgroundUrl": ""
+  },
+  "content": {
+    "brand": "TVJP Box",
+    "heroTitle": "Bem-vindo ao TVJP Box",
+    "heroSubtitle": "TV • Filmes • Séries • Esportes • Jogos",
+    "ottTitle": "Modo rápido",
+    "ottSubtitle": "TV, entretenimento e jogos com interface leve para TV Box.",
+    "adLabel": "TVJP BOX • ANÚNCIOS"
+  },
+  "sections": {
+    "games": true,
+    "cloud": true,
+    "streaming": true,
+    "extras": true,
+    "help": true,
+    "legal": true,
+    "lists": true,
+    "settings": true,
+    "favorites": true,
+    "movies": true,
+    "series": true,
+    "kids": true,
+    "sports": true
+  },
+  "contact": {
+    "whatsapp": "5554991931449",
+    "activationPrice": "R$ 10,00",
+    "activationMessage": "Olá, preciso da chave de ativação do TVJP Box. Meu ID: {ID}"
+  },
+  "managedM3u": {
+    "enabled": false,
+    "name": "TVJP • Lista Administrada",
+    "url": "",
+    "category": "Brasil"
+  },
+  "notice": {
+    "enabled": false,
+    "title": "Aviso TVJP Box",
+    "message": "",
+    "id": "inicio"
+  },
+  "maintenance": {
+    "enabled": false,
+    "title": "TVJP Box em manutenção",
+    "message": "Estamos fazendo ajustes. Tente novamente em alguns minutos."
+  },
+  "update": {
+    "enabled": false,
+    "required": false,
+    "versionCode": 99,
+    "versionName": "2.9.9-fix99-github-ready",
+    "apkUrl": "https://github.com/castrojoa/tvjp-remote/releases/latest/download/JPTVBox.apk",
+    "message": "Nova versão disponível."
+  },
+  "stats": {
+    "enabled": false,
+    "postUrl": ""
+  }
+}
